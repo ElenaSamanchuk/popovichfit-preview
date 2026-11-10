@@ -1,0 +1,1 @@
+import{At as e,Et as t,lt as n,st as r}from"./BRfBc0KK.js";import{n as i,r as a,t as o}from"./C9E-8kqi.js";var s=(e,t)=>{let n=e.__vccOpts||e;for(let[e,r]of t)n[e]=r;return n},c={},l={class:`pf-site min-h-screen`};function u(s,c){let u=a,d=i,f=o;return t(),r(`div`,l,[n(u),e(s.$slots,`default`),n(d),n(f)])}var d=s(c,[[`render`,u]]);export{d as default};
