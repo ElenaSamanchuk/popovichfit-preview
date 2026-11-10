@@ -1,1 +1,0 @@
-import{At as e,Et as t,lt as n,st as r}from"./Xr4W13Ii.js";import{i,n as a,r as o,t as s}from"./DYu37wCF.js";var c={},l={class:`pf-site min-h-screen`};function u(s,c){let u=i,d=o,f=a;return t(),r(`div`,l,[n(u),e(s.$slots,`default`),n(d),n(f)])}var d=s(c,[[`render`,u]]);export{d as default};

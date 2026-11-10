@@ -1,0 +1,1 @@
+@media (width<=767px){body:has(.pfh .dock.is-on) .pf-totop{bottom:calc(76px + env(safe-area-inset-bottom))}}
